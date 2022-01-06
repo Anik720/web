@@ -1,0 +1,79 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+.orange{
+  color: orange
+}
+.intro{
+  border-left: red solid 5px;
+  padding-left: 10px;
+}
+.container{
+  display: flex;
+}
+.half-width{
+  width: 40%;
+  margin: 5%;
+}
+.half-width img{
+  width: 80%;
+  
+}
+.btn{
+ 
+  background-color: red;
+  color: white;
+  font-weight: 20px;
+  padding: 10px 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.mission-intro{
+  text-align: center;
+}
+.navy-blue{
+  color: rgb(1, 1, 37);
+  font-weight: 30px;
+
+}
+.box1{
+  background-color: rgb(216, 237, 238);
+padding: 30px ;
+border-radius: 10px;
+text-align: justify;
+}
+.box2{
+
+  background-color: rgb(235, 214, 218);
+  padding: 30px ;
+  border-radius: 10px;
+  text-align: justify;
+}
+.box3{
+  background-color: rgb(245, 231, 234);
+  padding: 30px ;
+  border-radius: 10px;
+  text-align: justify;
+}
+.develop{
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 400px;
+
+}
+.project{
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right ;
+  background-size: 400px;
+
+}
+.foot{
+  background-color: black;
+  color: white;
+  padding:10px;
+}
+
